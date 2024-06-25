@@ -1,0 +1,356 @@
+pygaze initiation report start
+display resolution: 1920x1080
+display size in cm: 33.8x27.1
+samplerate: 60.0 Hz
+sampletime: 16.666666666666668 ms
+fixation threshold: 1.5 degrees
+speed threshold: 35 degrees/second
+acceleration threshold: 9500 degrees/second**2
+pygaze initiation report end
+pygaze calibration report start
+accuracy (degrees): LX=0.38139805638231294, LY=0.7982287709607626, RX=0.5583761628185898, RY=0.5956165351053433
+accuracy (in pixels): LX=18.528000000000016, LY=38.77679999999999, RX=27.125333333333334, RY=28.934400000000004
+precision (RMS noise in pixels): X=27.567675097921637, Y=39.26335129448309
+distance between participant and display: 57.0 cm
+fixation threshold: 72.1350984010696 pixels
+speed threshold: 1.6827679496329635 pixels/ms
+acceleration threshold: 460.9834158742855 pixels/ms**2
+pygaze calibration report end
+start_trial
+start_sequence
+coordinates:(-320,0, 320, 0)
+stimuli: (005.png, 016.png)
+
+show_stimulus
+hide_stimulus
+stop_sequence
+start_sequence
+coordinates:(160,-277, -160, 277)
+stimuli: (000.png, 008.png)
+
+show_stimulus
+hide_stimulus
+stop_sequence
+start_sequence
+coordinates:(-160,-277, 160, 277)
+stimuli: (007.png, 010.png)
+
+show_stimulus
+hide_stimulus
+stop_sequence
+start_sequence
+coordinates:(0,320, 0, -320)
+stimuli: (001.png, 001.png)
+
+show_stimulus
+hide_stimulus
+stop_sequence
+start_sequence
+coordinates:(277,-160, -277, 160)
+stimuli: (021.png, 003.png)
+
+show_stimulus
+hide_stimulus
+stop_sequence
+start_sequence
+coordinates:(-320,0, 320, 0)
+stimuli: (019.png, 021.png)
+
+show_stimulus
+hide_stimulus
+stop_sequence
+start_sequence
+coordinates:(-277,-160, 277, 160)
+stimuli: (014.png, 013.png)
+
+show_stimulus
+hide_stimulus
+stop_sequence
+start_sequence
+coordinates:(-277,-160, 277, 160)
+stimuli: (003.png, 015.png)
+
+show_stimulus
+hide_stimulus
+stop_sequence
+start_sequence
+coordinates:(160,-277, -160, 277)
+stimuli: (020.png, 004.png)
+
+show_stimulus
+hide_stimulus
+stop_sequence
+start_sequence
+coordinates:(-160,-277, 160, 277)
+stimuli: (011.png, 020.png)
+
+show_stimulus
+hide_stimulus
+stop_sequence
+start_sequence
+coordinates:(277,-160, -277, 160)
+stimuli: (006.png, 006.png)
+
+show_stimulus
+hide_stimulus
+stop_sequence
+start_sequence
+coordinates:(0,320, 0, -320)
+stimuli: (004.png, 005.png)
+
+show_stimulus
+hide_stimulus
+stop_sequence
+start_sequence
+coordinates:(0,-320, 0, 320)
+stimuli: (002.png, 018.png)
+
+show_stimulus
+hide_stimulus
+stop_sequence
+start_sequence
+coordinates:(-277,160, 277, -160)
+stimuli: (015.png, 014.png)
+
+show_stimulus
+hide_stimulus
+stop_sequence
+start_sequence
+coordinates:(160,277, -160, -277)
+stimuli: (008.png, 007.png)
+
+show_stimulus
+hide_stimulus
+stop_sequence
+start_sequence
+coordinates:(-160,277, 160, -277)
+stimuli: (017.png, 019.png)
+
+show_stimulus
+hide_stimulus
+stop_sequence
+start_sequence
+coordinates:(277,160, -277, -160)
+stimuli: (010.png, 011.png)
+
+show_stimulus
+hide_stimulus
+stop_sequence
+start_sequence
+coordinates:(277,160, -277, -160)
+stimuli: (016.png, 009.png)
+
+show_stimulus
+hide_stimulus
+stop_sequence
+start_sequence
+coordinates:(320,0, -320, 0)
+stimuli: (013.png, 000.png)
+
+show_stimulus
+hide_stimulus
+stop_sequence
+start_sequence
+coordinates:(-277,160, 277, -160)
+stimuli: (018.png, 012.png)
+
+show_stimulus
+hide_stimulus
+stop_sequence
+start_sequence
+coordinates:(0,-320, 0, 320)
+stimuli: (009.png, 017.png)
+
+show_stimulus
+hide_stimulus
+stop_sequence
+start_sequence
+coordinates:(160,277, -160, -277)
+stimuli: (012.png, 002.png)
+
+show_stimulus
+hide_stimulus
+stop_sequence
+start_sequence
+coordinates:(-160,277, 160, -277)
+stimuli: (012.png, 002.png)
+
+show_stimulus
+hide_stimulus
+stop_sequence
+start_sequence
+coordinates:(320,0, -320, 0)
+stimuli: (009.png, 017.png)
+
+show_stimulus
+hide_stimulus
+stop_sequence
+start_sequence
+coordinates:(-320,0, 320, 0)
+stimuli: (005.png, 016.png)
+
+show_stimulus
+hide_stimulus
+stop_sequence
+start_sequence
+coordinates:(160,-277, -160, 277)
+stimuli: (000.png, 008.png)
+
+show_stimulus
+hide_stimulus
+stop_sequence
+start_sequence
+coordinates:(-160,-277, 160, 277)
+stimuli: (007.png, 010.png)
+
+show_stimulus
+hide_stimulus
+stop_sequence
+start_sequence
+coordinates:(0,320, 0, -320)
+stimuli: (001.png, 001.png)
+
+show_stimulus
+hide_stimulus
+stop_sequence
+start_sequence
+coordinates:(277,-160, -277, 160)
+stimuli: (021.png, 003.png)
+
+show_stimulus
+hide_stimulus
+stop_sequence
+start_sequence
+coordinates:(-320,0, 320, 0)
+stimuli: (019.png, 021.png)
+
+show_stimulus
+hide_stimulus
+stop_sequence
+start_sequence
+coordinates:(-277,-160, 277, 160)
+stimuli: (014.png, 013.png)
+
+show_stimulus
+hide_stimulus
+stop_sequence
+start_sequence
+coordinates:(-277,-160, 277, 160)
+stimuli: (003.png, 015.png)
+
+show_stimulus
+hide_stimulus
+stop_sequence
+start_sequence
+coordinates:(160,-277, -160, 277)
+stimuli: (020.png, 004.png)
+
+show_stimulus
+hide_stimulus
+stop_sequence
+start_sequence
+coordinates:(-160,-277, 160, 277)
+stimuli: (011.png, 020.png)
+
+show_stimulus
+hide_stimulus
+stop_sequence
+start_sequence
+coordinates:(277,-160, -277, 160)
+stimuli: (006.png, 006.png)
+
+show_stimulus
+hide_stimulus
+stop_sequence
+start_sequence
+coordinates:(0,320, 0, -320)
+stimuli: (004.png, 005.png)
+
+show_stimulus
+hide_stimulus
+stop_sequence
+start_sequence
+coordinates:(0,-320, 0, 320)
+stimuli: (002.png, 018.png)
+
+show_stimulus
+hide_stimulus
+stop_sequence
+start_sequence
+coordinates:(-277,160, 277, -160)
+stimuli: (015.png, 014.png)
+
+show_stimulus
+hide_stimulus
+stop_sequence
+start_sequence
+coordinates:(160,277, -160, -277)
+stimuli: (008.png, 007.png)
+
+show_stimulus
+hide_stimulus
+stop_sequence
+start_sequence
+coordinates:(-160,277, 160, -277)
+stimuli: (017.png, 019.png)
+
+show_stimulus
+hide_stimulus
+stop_sequence
+start_sequence
+coordinates:(277,160, -277, -160)
+stimuli: (010.png, 011.png)
+
+show_stimulus
+hide_stimulus
+stop_sequence
+start_sequence
+coordinates:(277,160, -277, -160)
+stimuli: (016.png, 009.png)
+
+show_stimulus
+hide_stimulus
+stop_sequence
+start_sequence
+coordinates:(320,0, -320, 0)
+stimuli: (013.png, 000.png)
+
+show_stimulus
+hide_stimulus
+stop_sequence
+start_sequence
+coordinates:(-277,160, 277, -160)
+stimuli: (018.png, 012.png)
+
+show_stimulus
+hide_stimulus
+stop_sequence
+start_sequence
+coordinates:(0,-320, 0, 320)
+stimuli: (009.png, 017.png)
+
+show_stimulus
+hide_stimulus
+stop_sequence
+start_sequence
+coordinates:(160,277, -160, -277)
+stimuli: (012.png, 002.png)
+
+show_stimulus
+hide_stimulus
+stop_sequence
+start_sequence
+coordinates:(-160,277, 160, -277)
+stimuli: (012.png, 002.png)
+
+show_stimulus
+hide_stimulus
+stop_sequence
+start_sequence
+coordinates:(320,0, -320, 0)
+stimuli: (009.png, 017.png)
+
+show_stimulus
+hide_stimulus
+stop_sequence
+stop_trial

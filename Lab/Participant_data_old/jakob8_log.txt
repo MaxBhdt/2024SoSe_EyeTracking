@@ -1,0 +1,68 @@
+pygaze initiation report start
+display resolution: 1920x1080
+display size in cm: 33.8x27.1
+samplerate: 60.0 Hz
+sampletime: 16.666666666666668 ms
+fixation threshold: 1.5 degrees
+speed threshold: 35 degrees/second
+acceleration threshold: 9500 degrees/second**2
+pygaze initiation report end
+pygaze calibration report start
+accuracy (degrees): LX=0.20566337239424867, LY=0.5182035639798155, RX=0.4056510753388542, RY=0.6759112908603836
+accuracy (in pixels): LX=9.990981818181814, LY=25.173818181818184, RX=19.706181818181836, RY=32.834945454545434
+precision (RMS noise in pixels): X=18.19069593160835, Y=33.023671962978774
+distance between participant and display: 57.0 cm
+fixation threshold: 72.1350984010696 pixels
+speed threshold: 1.6827679496329635 pixels/ms
+acceleration threshold: 460.9834158742855 pixels/ms**2
+pygaze calibration report end
+start_trial
+fixation_stimulus
+fixation
+fixation_stimulus
+fixation
+fixation_stimulus
+fixation
+fixation_stimulus
+fixation
+fixation_stimulus
+fixation
+fixation_stimulus
+fixation
+fixation_stimulus
+fixation
+fixation_stimulus
+fixation
+fixation_stimulus
+fixation
+fixation_stimulus
+fixation
+fixation_stimulus
+fixation
+fixation_stimulus
+fixation
+fixation_stimulus
+fixation
+fixation_stimulus
+fixation
+fixation_stimulus
+fixation
+fixation_stimulus
+fixation
+fixation_stimulus
+fixation
+fixation_stimulus
+fixation
+fixation_stimulus
+fixation
+fixation_stimulus
+fixation
+fixation_stimulus
+fixation
+fixation_stimulus
+fixation
+fixation_stimulus
+fixation
+fixation_stimulus
+fixation
+stop_trial
